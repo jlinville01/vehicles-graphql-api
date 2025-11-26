@@ -1,6 +1,6 @@
-# Fender Guitars API
+# Planes Trains and Automobiles API
 
-![Project logo](https://github.com/jlinville01/fender-api/blob/main/assets/Fender-Logo-JPG_1211322105.jpg)
+![Project logo](https://media1.tenor.com/m/aRvgI9VbrXAAAAAd/freezing-cold.gif)
 
 ## Setup
 
