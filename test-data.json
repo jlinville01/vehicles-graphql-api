@@ -1,0 +1,160 @@
+{
+	"vehicles": [
+	{
+		"cars": [
+		{
+			"make": "Toyota",
+			"model": "Prius",
+			"year": "2021",
+			"type": "Sedan",
+			"color": [ "White", "Black", "Silver", "Red", "Blue" ],
+			"fuel type": "Hybrid"
+		},
+		{
+			"make": "Dodge",
+			"model": "Ram",
+			"year": "2025",
+			"type": "Truck",
+			"color": [ "White", "Black", "Silver" ],
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Dodge",
+			"model": "Ram",
+			"year": "2021",
+			"type": "Sedan",
+			"color": [ "White", "Black", "Silver", "Red", "Blue" ],
+			"fuel type": "Hybrid"
+		},
+		{
+			"make": "Lincoln",
+			"model": "Town Car",
+			"year": "2000",
+			"type": "Limousine",
+			"color": "Black",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Chevrolet",
+			"model": "Caprice Classic",
+			"year": "1984",
+			"type": "Wagon",
+			"color": "Brown",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Kia",
+			"model": "Carnival",
+			"year": "2026",
+			"type": "Van",
+			"color": "Black",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Honda",
+			"model": "Civic",
+			"year": "2026",
+			"type": "Hatchback",
+			"color": [ "Blue", "Green" ],
+			"fuel type": [ "Gas", "Hybrid" ]
+		},
+		{
+			"make": "Tesla",
+			"model": "Model Y",
+			"year": "2021",
+			"type": "Coupe",
+			"color": "Black",
+			"fuel type": "Electric"
+		},
+		{
+			"make": "Jeep",
+			"model": "Grand Cherokee Limited",
+			"year": "2025",
+			"type": "Off-Road",
+			"color": "Green",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Chevrolet",
+			"model": "Corvette Z06 2LZ",
+			"year": "2026",
+			"type": "Sports Car",
+			"color": "Red",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Jaguar",
+			"model": "F-PACE R-Dynamic S",
+			"year": "2025",
+			"type": "SUV",
+			"color": [ "Black", "Silver", "Red", "Blue" ],
+			"fuel type": "Gas"
+		}],
+		"planes": [
+		{
+			"make": "American Champion",
+			"model": "8KCAB Super Decathlon",
+			"year": "2007",
+			"type": "Sport",
+			"color": "White",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Beechcraft",
+			"model": "58 Baron",
+			"year": "1982",
+			"type": "Piston",
+			"color": "White",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Beechcraft",
+			"model": "B55 Baron",
+			"year": "1974",
+			"type": "Piston",
+			"color": "White",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Cessna",
+			"model": "177B Cardinal",
+			"year": "1976",
+			"type": "Piston",
+			"color": "White",
+			"fuel type": "Gas"
+		}],
+		"boats": [
+		{
+			"make": "Sea Ray",
+			"model": "Sundancer 320",
+			"year": "2020",
+			"type": "Express Cruiser",
+			"color": "Blue",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Lawley & Sons",
+			"model": "Witchcraft II",
+			"year": "1903",
+			"type": "Yawl",
+			"color": "White",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Hacker-Craft ",
+			"model": "Deluxe",
+			"year": "1941",
+			"type": "Runabout",
+			"color": "Brown",
+			"fuel type": "Gas"
+		},
+		{
+			"make": "Tugboat",
+			"model": "Deluxe",
+			"year": "1955",
+			"type": "Tugboat",
+			"color": "Gray",
+			"fuel type": "Gas"
+		}]
+	}]
+}
