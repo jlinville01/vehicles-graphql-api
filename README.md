@@ -26,7 +26,7 @@
    Node: npm run start
    nodemon: npm run dev
    ```
-   - The app will be available at `http://localhost:8080`
+   - The app will be available at `http://localhost:3000`
    
 4. **Run automation**
    ```bash
