@@ -12,8 +12,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jlinville01/fender-api.git
-   cd fender-api
+   git clone https://github.com/jlinville01/vehicles-graphql-api.git
+   cd vehicles-graphql-api
    ```
 
 2. **Install dependencies**
@@ -28,19 +28,9 @@
    ```
    - The app will be available at `http://localhost:8080`
    
-4. **Change directories**
+4. **Run automation**
    ```bash
-   cd qa
-   ```
-
-5. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-6. **Run automation**
-   ```bash
-   npx wdio run ./wdio.conf.js
+   npm test
    ```
 
 ### Refresh Data
