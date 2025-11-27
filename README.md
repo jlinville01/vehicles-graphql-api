@@ -18,10 +18,7 @@
 
 2. **Install dependencies**
    ```bash
-   npm init -y
-   npm install express express-graphql graphql
-   # optional but nice for auto-restart during development:
-   npm install --save-dev nodemon
+   npm install
    ```
 
 3. **Start the development server**
@@ -48,10 +45,7 @@
 
 ### Refresh Data
 1. **Start the server again**
-   ```bash
-   Node: npm run start
-   nodemon: npm run dev
-   ```
+
 OR
 
 2. **Use the /admin/refresh endpoint (no restart)**

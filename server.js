@@ -173,6 +173,14 @@ app.use(
 );
 
 const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => {
-  console.log(`🚗 Vehicles GraphQL API running at http://localhost:${PORT}/graphql`);
-});
+
+// Only start the server if this file is run directly (node server.js)
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(
+      `🚗 Vehicles GraphQL API running at http://localhost:${PORT}/graphql`
+    );
+  });
+}
+
+module.exports = app;
